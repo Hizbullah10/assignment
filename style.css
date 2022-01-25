@@ -1,0 +1,25 @@
+body{
+    font-family: 'Julius Sans One', sans-serif; 
+    margin:0;
+}
+h1{
+    font-size:50px;
+
+    }
+
+.orange-color{
+    color:orange
+}
+.link-button{
+    text-decoration: none ;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.top-container{
+    width: 50px;
+    margin-left: 10px;
+    align-items: center;
+}
